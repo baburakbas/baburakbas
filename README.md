@@ -26,7 +26,7 @@
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=de-bugsBunny&show_icons=true&theme=default&hide_border=false&locale=en)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=de-bugsBunny&theme=github&utcOffset=3)
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=de-bugsBuny&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=de-bugsBunny&theme=github)
 
 
 ---
