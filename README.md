@@ -15,7 +15,7 @@ I am an Electrical Engineeringstudent <img src="https://media.giphy.com/media/WU
 
 - :zap: In my free time, I'm working on Golang and microservices.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bab%C3%BCr-akba%C5%9F/)
+- :mailbox:How to reach me: [![Linkedin](https://img.shields.io/badge/blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bab%C3%BCr-akba%C5%9F/)
 
   
   
