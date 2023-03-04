@@ -1,23 +1,41 @@
 
+### Hi there 👋 
+
+---
+
+![Counter](https://komarev.com/ghpvc/?username=de-bugsBunny&style=flat-square&label=Profile%20Views)
+
+- 🔭 I’m currently working on Golang , Microservices and <b>Linux</b>.
+- 📫 How to reach me: 
+  - 📫 baburakbas4646@gmail.com
+  - 📫 https://www.linkedin.com/in/bab%C3%BCr-akba%C5%9F/
+  
+- 👨‍💻 I am working on:
+- 📌 Golang , Computer Networking , Microservices.
+- 📌 IOT , GSM, LoRA , Stm
+  
+
+- ⚡ Organizations:
+  - 📌 https://github.com/kentswitch
+  - 📌 https://github.com/Ubn-Jr
+    
+
+<!-- <div align="center"> -->
+### Github stats
+
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=de-bugsBunny&show_icons=true&theme=default&hide_border=false&locale=en)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=de-bugsBunny&theme=github&utcOffset=3)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=de-bugsBuny&theme=github)
+
+
+---
+
+
 </h1>
 <div align="center">
   <img src="https://media.giphy.com/media/l0HlNaQ6gWfllcjDO/giphy.gif" width="600" height="300"/>
 </div>
----
-
-### :man_technologist: About Me :
-:wave:
-I am an Electrical Engineeringstudent <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Turkey.
-
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-
-- :seedling: Exploring Technical Content Writing.
-
-- :zap: In my free time, I'm working on Golang and microservices.
-
-- :mailbox:How to reach me:
-- :mailbox: [![Linkedin](https://img.shields.io/badge/blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/bab%C3%BCr-akba%C5%9F/)
-- :mailbox: baburakbas4646@gmail.com
 
   
   
