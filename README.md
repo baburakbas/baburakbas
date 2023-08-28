@@ -23,9 +23,9 @@
 <!-- <div align="center"> -->
 ### Github stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=de-bugsBunny&border_radius=8&mode=weekly&card_width=500)](https://git.io/streak-stats)
-![Github Stats](https://github-readme-stats.vercel.app/api?username=de-bugsBunny&show_icons=true&theme=default&hide_border=false&locale=en)
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=de-bugsBunny&theme=github)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=baburakbas&border_radius=8&mode=weekly&card_width=500)](https://git.io/streak-stats)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=baburakbas&show_icons=true&theme=default&hide_border=false&locale=en)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=baburakbas&theme=github)
 
 
 ---
