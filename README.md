@@ -16,8 +16,9 @@
   
 
 - ⚡ Organizations:
-  - 📌 https://github.com/kentswitch
-  - 📌 https://github.com/Ubn-Jr
+  - 📌 [octopOS Prime](https://github.com/octoposprime)
+
+  - 📌 [Ubn-Jr](https://github.com/Ubn-Jr)
     
 
 <!-- <div align="center"> -->
