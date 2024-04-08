@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on Golang , Microservices and <b>Linux</b>.
 - 📫 How to reach me: 
-  - 📫 baburakbas@gmail.com
+  - 📫 babur.akbas@gmail.com
   - 📫 https://www.linkedin.com/in/bab%C3%BCr-akba%C5%9F/
   
 - 👨‍💻 I am working on:
