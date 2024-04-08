@@ -3,7 +3,6 @@
 
 ---
 
-![Counter](https://komarev.com/ghpvc/?username=de-bugsBunny&style=flat-square&label=Profile%20Views)
 
 - 🔭 I’m currently working on Golang , Microservices and <b>Linux</b>.
 - 📫 How to reach me: 
